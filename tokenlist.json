@@ -1,17 +1,1 @@
-{
-    "address": "TP7HQDEHsTip2KXdnhYTnCVzx7kBYxGU2F",
-    "symbol": "BBSDTA",
-    "name": "USQT",
-    "decimals": 18,
-    "logoURI": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/56020150-434a-46af-9eaa-fe1ed404c12b.gif",
-    "homepage": "https://t.me/BtCoffeeSpace",
-    "existingMarkets": [
-        {
-            "source": "ApeNFT",
-            "pairs": [
-                "BBSDTA/USDT",
-                "BBSDTA/TRX"
-            ]
-        }
-  ]
-}
+
